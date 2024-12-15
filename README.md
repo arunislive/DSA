@@ -1,3 +1,5 @@
+Learning so called leetcode dsa without learning dsa first so getting stuck on much simpler concepts is common
+
 Two Sum Problem
 Description
 The Two Sum problem involves finding two numbers in an array that add up to a specific target value. This repository contains a solution to the problem, including an optimized approach to improve time and space efficiency.
